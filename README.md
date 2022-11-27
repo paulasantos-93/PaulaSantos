@@ -1,4 +1,4 @@
-# PaulaSantos
+# paulasantos-93
 <p align="center">
   <h1 align="center">  Hey you, welcome to my github profile! 😎</h1>
   <h1 align="center">  My name is Paula Santos 🤩</h1> 
