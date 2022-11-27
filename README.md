@@ -4,11 +4,12 @@
   <h1 align="center">  My name is Paula Santos 🤩</h1> 
 </p>
 
-- 🔭 I did a 14-Week Intensive && Immersive Full Stack Programming Bootcamp at &lt.Academia de Código_&gt.
-- 🌱 I’m currently learning more about Java;
+- 🔭 I did a 14-Week Intensive && Immersive Full Stack Programming Bootcamp at <Academia de Código_>
+- 🌱 I’m currently learning more about Java
+- ⚡ Fun fact **I'm passionate about travel ✈**
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nada.geral@gmail.com)](mailto:paulasantos_risa@hotmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paularibeirosantos/)](https://www.linkedin.com/in/paularibeirosantos/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351932614662)
 - 😄 You can download my CV [here](https://github.com/paulasantos-93/PaulaSantos/blob/18f8cd39fad45f99bb6cbb6878a8b420aace8075/CV%20PAULA%20SANTOS.pdf "here").
-- 😱 You can see my skills [here]( "here").
+
 
 ## Technologies I know and I'm learning
 #### Backend
@@ -44,5 +45,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeantoniomota/)](https://www.linkedin.com/in/paularibeirosantos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nada.geral@gmail.com)](mailto:paulasantos_risa@hotmail.com)
 [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351932614662)
-
-⭐️ From [Paula Santos](https://github.com/paulasantos-93)
